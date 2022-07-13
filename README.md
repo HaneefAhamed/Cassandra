@@ -1,6 +1,6 @@
 # Introduction to Cassandra
 
-In this project, we will develop  applications  using  Apache Cassandra on VMs (Virtual machine). 
+In this project, we will develop  applications  using  Apache Cassandra on VMs (Virtual machine). To analyze a real anonymous logs to answer several questions based on the log.
 
 ## Setting up Cassandra:
 
